@@ -1,0 +1,361 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Semesters\\7th Sem\\.NET\\Practicing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7520D65A-32F2-458A-B435-CEC3952E5F6C}|Practicing\\Practicing.csproj|d:\\semesters\\7th sem\\.net\\practicing\\practicing\\doctorsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7520D65A-32F2-458A-B435-CEC3952E5F6C}|Practicing\\Practicing.csproj|solutionrelative:practicing\\doctorsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7520D65A-32F2-458A-B435-CEC3952E5F6C}|Practicing\\Practicing.csproj|D:\\Semesters\\7th Sem\\.NET\\Practicing\\practicing\\doctorsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7520D65A-32F2-458A-B435-CEC3952E5F6C}|Practicing\\Practicing.csproj|solutionrelative:practicing\\doctorsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7520D65A-32F2-458A-B435-CEC3952E5F6C}|Practicing\\Practicing.csproj|D:\\Semesters\\7th Sem\\.NET\\Practicing\\practicing\\signinform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7520D65A-32F2-458A-B435-CEC3952E5F6C}|Practicing\\Practicing.csproj|solutionrelative:practicing\\signinform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7520D65A-32F2-458A-B435-CEC3952E5F6C}|Practicing\\Practicing.csproj|D:\\Semesters\\7th Sem\\.NET\\Practicing\\practicing\\signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7520D65A-32F2-458A-B435-CEC3952E5F6C}|Practicing\\Practicing.csproj|solutionrelative:practicing\\signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7520D65A-32F2-458A-B435-CEC3952E5F6C}|Practicing\\Practicing.csproj|D:\\Semesters\\7th Sem\\.NET\\Practicing\\practicing\\signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7520D65A-32F2-458A-B435-CEC3952E5F6C}|Practicing\\Practicing.csproj|solutionrelative:practicing\\signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7520D65A-32F2-458A-B435-CEC3952E5F6C}|Practicing\\Practicing.csproj|D:\\Semesters\\7th Sem\\.NET\\Practicing\\practicing\\signinform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7520D65A-32F2-458A-B435-CEC3952E5F6C}|Practicing\\Practicing.csproj|solutionrelative:practicing\\signinform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7520D65A-32F2-458A-B435-CEC3952E5F6C}|Practicing\\Practicing.csproj|D:\\Semesters\\7th Sem\\.NET\\Practicing\\practicing\\patientsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7520D65A-32F2-458A-B435-CEC3952E5F6C}|Practicing\\Practicing.csproj|solutionrelative:practicing\\patientsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7520D65A-32F2-458A-B435-CEC3952E5F6C}|Practicing\\Practicing.csproj|D:\\Semesters\\7th Sem\\.NET\\Practicing\\practicing\\patientsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7520D65A-32F2-458A-B435-CEC3952E5F6C}|Practicing\\Practicing.csproj|solutionrelative:practicing\\patientsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7520D65A-32F2-458A-B435-CEC3952E5F6C}|Practicing\\Practicing.csproj|D:\\Semesters\\7th Sem\\.NET\\Practicing\\practicing\\patientsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7520D65A-32F2-458A-B435-CEC3952E5F6C}|Practicing\\Practicing.csproj|solutionrelative:practicing\\patientsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7520D65A-32F2-458A-B435-CEC3952E5F6C}|Practicing\\Practicing.csproj|D:\\Semesters\\7th Sem\\.NET\\Practicing\\practicing\\mainform1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7520D65A-32F2-458A-B435-CEC3952E5F6C}|Practicing\\Practicing.csproj|solutionrelative:practicing\\mainform1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7520D65A-32F2-458A-B435-CEC3952E5F6C}|Practicing\\Practicing.csproj|D:\\Semesters\\7th Sem\\.NET\\Practicing\\practicing\\managersform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7520D65A-32F2-458A-B435-CEC3952E5F6C}|Practicing\\Practicing.csproj|solutionrelative:practicing\\managersform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7520D65A-32F2-458A-B435-CEC3952E5F6C}|Practicing\\Practicing.csproj|D:\\Semesters\\7th Sem\\.NET\\Practicing\\practicing\\managersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7520D65A-32F2-458A-B435-CEC3952E5F6C}|Practicing\\Practicing.csproj|solutionrelative:practicing\\managersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7520D65A-32F2-458A-B435-CEC3952E5F6C}|Practicing\\Practicing.csproj|D:\\Semesters\\7th Sem\\.NET\\Practicing\\practicing\\managersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7520D65A-32F2-458A-B435-CEC3952E5F6C}|Practicing\\Practicing.csproj|solutionrelative:practicing\\managersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7520D65A-32F2-458A-B435-CEC3952E5F6C}|Practicing\\Practicing.csproj|D:\\Semesters\\7th Sem\\.NET\\Practicing\\practicing\\mainform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7520D65A-32F2-458A-B435-CEC3952E5F6C}|Practicing\\Practicing.csproj|solutionrelative:practicing\\mainform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7520D65A-32F2-458A-B435-CEC3952E5F6C}|Practicing\\Practicing.csproj|D:\\Semesters\\7th Sem\\.NET\\Practicing\\practicing\\doctorsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7520D65A-32F2-458A-B435-CEC3952E5F6C}|Practicing\\Practicing.csproj|solutionrelative:practicing\\doctorsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7520D65A-32F2-458A-B435-CEC3952E5F6C}|Practicing\\Practicing.csproj|D:\\Semesters\\7th Sem\\.NET\\Practicing\\practicing\\mainform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7520D65A-32F2-458A-B435-CEC3952E5F6C}|Practicing\\Practicing.csproj|solutionrelative:practicing\\mainform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7520D65A-32F2-458A-B435-CEC3952E5F6C}|Practicing\\Practicing.csproj|D:\\Semesters\\7th Sem\\.NET\\Practicing\\practicing\\patientsform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{7520D65A-32F2-458A-B435-CEC3952E5F6C}|Practicing\\Practicing.csproj|solutionrelative:practicing\\patientsform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7520D65A-32F2-458A-B435-CEC3952E5F6C}|Practicing\\Practicing.csproj|D:\\Semesters\\7th Sem\\.NET\\Practicing\\practicing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7520D65A-32F2-458A-B435-CEC3952E5F6C}|Practicing\\Practicing.csproj|solutionrelative:practicing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/Don/eDerma/True/SqlTable/dbo.patients.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7520D65A-32F2-458A-B435-CEC3952E5F6C}|Practicing\\Practicing.csproj|D:\\Semesters\\7th Sem\\.NET\\Practicing\\practicing\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7520D65A-32F2-458A-B435-CEC3952E5F6C}|Practicing\\Practicing.csproj|solutionrelative:practicing\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7520D65A-32F2-458A-B435-CEC3952E5F6C}|Practicing\\Practicing.csproj|D:\\Semesters\\7th Sem\\.NET\\Practicing\\practicing\\appointmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7520D65A-32F2-458A-B435-CEC3952E5F6C}|Practicing\\Practicing.csproj|solutionrelative:practicing\\appointmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7520D65A-32F2-458A-B435-CEC3952E5F6C}|Practicing\\Practicing.csproj|D:\\Semesters\\7th Sem\\.NET\\Practicing\\practicing\\appointmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7520D65A-32F2-458A-B435-CEC3952E5F6C}|Practicing\\Practicing.csproj|solutionrelative:practicing\\appointmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DoctorsForm.cs",
+              "DocumentMoniker": "D:\\Semesters\\7th Sem\\.NET\\Practicing\\Practicing\\DoctorsForm.cs",
+              "RelativeDocumentMoniker": "Practicing\\DoctorsForm.cs",
+              "ToolTip": "D:\\Semesters\\7th Sem\\.NET\\Practicing\\Practicing\\DoctorsForm.cs",
+              "RelativeToolTip": "Practicing\\DoctorsForm.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAewCEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T11:50:06.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SignupForm.cs [Design]",
+              "DocumentMoniker": "D:\\Semesters\\7th Sem\\.NET\\Practicing\\Practicing\\SignupForm.cs",
+              "RelativeDocumentMoniker": "Practicing\\SignupForm.cs",
+              "ToolTip": "D:\\Semesters\\7th Sem\\.NET\\Practicing\\Practicing\\SignupForm.cs [Design]",
+              "RelativeToolTip": "Practicing\\SignupForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T08:05:14.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SignupForm.cs",
+              "DocumentMoniker": "D:\\Semesters\\7th Sem\\.NET\\Practicing\\Practicing\\SignupForm.cs",
+              "RelativeDocumentMoniker": "Practicing\\SignupForm.cs",
+              "ToolTip": "D:\\Semesters\\7th Sem\\.NET\\Practicing\\Practicing\\SignupForm.cs",
+              "RelativeToolTip": "Practicing\\SignupForm.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAqwDMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T08:13:47.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PatientsForm.cs [Design]",
+              "DocumentMoniker": "D:\\Semesters\\7th Sem\\.NET\\Practicing\\Practicing\\PatientsForm.cs",
+              "RelativeDocumentMoniker": "Practicing\\PatientsForm.cs",
+              "ToolTip": "D:\\Semesters\\7th Sem\\.NET\\Practicing\\Practicing\\PatientsForm.cs [Design]",
+              "RelativeToolTip": "Practicing\\PatientsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T10:18:49.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PatientsForm.Designer.cs",
+              "DocumentMoniker": "D:\\Semesters\\7th Sem\\.NET\\Practicing\\Practicing\\PatientsForm.Designer.cs",
+              "RelativeDocumentMoniker": "Practicing\\PatientsForm.Designer.cs",
+              "ToolTip": "D:\\Semesters\\7th Sem\\.NET\\Practicing\\Practicing\\PatientsForm.Designer.cs",
+              "RelativeToolTip": "Practicing\\PatientsForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T11:00:10.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DoctorsForm.cs [Design]",
+              "DocumentMoniker": "D:\\Semesters\\7th Sem\\.NET\\Practicing\\Practicing\\DoctorsForm.cs",
+              "RelativeDocumentMoniker": "Practicing\\DoctorsForm.cs",
+              "ToolTip": "D:\\Semesters\\7th Sem\\.NET\\Practicing\\Practicing\\DoctorsForm.cs [Design]",
+              "RelativeToolTip": "Practicing\\DoctorsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T11:16:17.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SigninForm.cs [Design]",
+              "DocumentMoniker": "D:\\Semesters\\7th Sem\\.NET\\Practicing\\Practicing\\SigninForm.cs",
+              "RelativeDocumentMoniker": "Practicing\\SigninForm.cs",
+              "ToolTip": "D:\\Semesters\\7th Sem\\.NET\\Practicing\\Practicing\\SigninForm.cs [Design]",
+              "RelativeToolTip": "Practicing\\SigninForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T13:54:12.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SigninForm.cs",
+              "DocumentMoniker": "D:\\Semesters\\7th Sem\\.NET\\Practicing\\Practicing\\SigninForm.cs",
+              "RelativeDocumentMoniker": "Practicing\\SigninForm.cs",
+              "ToolTip": "D:\\Semesters\\7th Sem\\.NET\\Practicing\\Practicing\\SigninForm.cs",
+              "RelativeToolTip": "Practicing\\SigninForm.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAMwBAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T13:54:13.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainForm1.Designer.cs",
+              "DocumentMoniker": "D:\\Semesters\\7th Sem\\.NET\\Practicing\\Practicing\\MainForm1.Designer.cs",
+              "RelativeDocumentMoniker": "Practicing\\MainForm1.Designer.cs",
+              "ToolTip": "D:\\Semesters\\7th Sem\\.NET\\Practicing\\Practicing\\MainForm1.Designer.cs",
+              "RelativeToolTip": "Practicing\\MainForm1.Designer.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwD8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T11:04:59.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PatientsForm.cs",
+              "DocumentMoniker": "D:\\Semesters\\7th Sem\\.NET\\Practicing\\Practicing\\PatientsForm.cs",
+              "RelativeDocumentMoniker": "Practicing\\PatientsForm.cs",
+              "ToolTip": "D:\\Semesters\\7th Sem\\.NET\\Practicing\\Practicing\\PatientsForm.cs",
+              "RelativeToolTip": "Practicing\\PatientsForm.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAawA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T10:23:27.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ManagersForm.Designer.cs",
+              "DocumentMoniker": "D:\\Semesters\\7th Sem\\.NET\\Practicing\\Practicing\\ManagersForm.Designer.cs",
+              "RelativeDocumentMoniker": "Practicing\\ManagersForm.Designer.cs",
+              "ToolTip": "D:\\Semesters\\7th Sem\\.NET\\Practicing\\Practicing\\ManagersForm.Designer.cs",
+              "RelativeToolTip": "Practicing\\ManagersForm.Designer.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAgwFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T11:53:12.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ManagersForm.cs",
+              "DocumentMoniker": "D:\\Semesters\\7th Sem\\.NET\\Practicing\\Practicing\\ManagersForm.cs",
+              "RelativeDocumentMoniker": "Practicing\\ManagersForm.cs",
+              "ToolTip": "D:\\Semesters\\7th Sem\\.NET\\Practicing\\Practicing\\ManagersForm.cs",
+              "RelativeToolTip": "Practicing\\ManagersForm.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAewCEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T11:52:23.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ManagersForm.cs [Design]",
+              "DocumentMoniker": "D:\\Semesters\\7th Sem\\.NET\\Practicing\\Practicing\\ManagersForm.cs",
+              "RelativeDocumentMoniker": "Practicing\\ManagersForm.cs",
+              "ToolTip": "D:\\Semesters\\7th Sem\\.NET\\Practicing\\Practicing\\ManagersForm.cs [Design]",
+              "RelativeToolTip": "Practicing\\ManagersForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T11:34:35.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainForm1.cs [Design]",
+              "DocumentMoniker": "D:\\Semesters\\7th Sem\\.NET\\Practicing\\Practicing\\MainForm1.cs",
+              "RelativeDocumentMoniker": "Practicing\\MainForm1.cs",
+              "ToolTip": "D:\\Semesters\\7th Sem\\.NET\\Practicing\\Practicing\\MainForm1.cs [Design]",
+              "RelativeToolTip": "Practicing\\MainForm1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T20:24:12.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DoctorsForm.Designer.cs",
+              "DocumentMoniker": "D:\\Semesters\\7th Sem\\.NET\\Practicing\\Practicing\\DoctorsForm.Designer.cs",
+              "RelativeDocumentMoniker": "Practicing\\DoctorsForm.Designer.cs",
+              "ToolTip": "D:\\Semesters\\7th Sem\\.NET\\Practicing\\Practicing\\DoctorsForm.Designer.cs",
+              "RelativeToolTip": "Practicing\\DoctorsForm.Designer.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T11:49:49.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainForm1.cs",
+              "DocumentMoniker": "D:\\Semesters\\7th Sem\\.NET\\Practicing\\Practicing\\MainForm1.cs",
+              "RelativeDocumentMoniker": "Practicing\\MainForm1.cs",
+              "ToolTip": "D:\\Semesters\\7th Sem\\.NET\\Practicing\\Practicing\\MainForm1.cs",
+              "RelativeToolTip": "Practicing\\MainForm1.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAIA5wEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T09:46:19.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PatientsForm.resx",
+              "DocumentMoniker": "D:\\Semesters\\7th Sem\\.NET\\Practicing\\Practicing\\PatientsForm.resx",
+              "RelativeDocumentMoniker": "Practicing\\PatientsForm.resx",
+              "ToolTip": "D:\\Semesters\\7th Sem\\.NET\\Practicing\\Practicing\\PatientsForm.resx",
+              "RelativeToolTip": "Practicing\\PatientsForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-03-13T11:01:42.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Semesters\\7th Sem\\.NET\\Practicing\\Practicing\\Program.cs",
+              "RelativeDocumentMoniker": "Practicing\\Program.cs",
+              "ToolTip": "D:\\Semesters\\7th Sem\\.NET\\Practicing\\Practicing\\Program.cs",
+              "RelativeToolTip": "Practicing\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T21:57:22.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "dbo.patients.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/Don/eDerma/True/SqlTable/dbo.patients.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/Don/eDerma/True/SqlTable/dbo.patients.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-13T09:07:16.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\Semesters\\7th Sem\\.NET\\Practicing\\Practicing\\App.config",
+              "RelativeDocumentMoniker": "Practicing\\App.config",
+              "ToolTip": "D:\\Semesters\\7th Sem\\.NET\\Practicing\\Practicing\\App.config",
+              "RelativeToolTip": "Practicing\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-13T08:39:17.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AppointmentForm.cs",
+              "DocumentMoniker": "D:\\Semesters\\7th Sem\\.NET\\Practicing\\Practicing\\AppointmentForm.cs",
+              "RelativeDocumentMoniker": "Practicing\\AppointmentForm.cs",
+              "ToolTip": "D:\\Semesters\\7th Sem\\.NET\\Practicing\\Practicing\\AppointmentForm.cs",
+              "RelativeToolTip": "Practicing\\AppointmentForm.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T21:47:04.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AppointmentForm.cs [Design]",
+              "DocumentMoniker": "D:\\Semesters\\7th Sem\\.NET\\Practicing\\Practicing\\AppointmentForm.cs",
+              "RelativeDocumentMoniker": "Practicing\\AppointmentForm.cs",
+              "ToolTip": "D:\\Semesters\\7th Sem\\.NET\\Practicing\\Practicing\\AppointmentForm.cs [Design]",
+              "RelativeToolTip": "Practicing\\AppointmentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T21:12:57.988Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
